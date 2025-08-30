@@ -14,4 +14,4 @@ This repository hosts privacy policies for all my browser extensions published o
 - None of my extensions collect, store, or share personal data.
 - All extensions follow Chrome Web Store and Mozilla Add-ons privacy requirements.
 
-If you have any questions, feel free to contact me at: **your-email@example.com**
+If you have any questions, feel free to contact me at: **akm.mishra63@gmail.com**
